@@ -6,7 +6,7 @@ import (
 	stdlog "log"
 	"runtime"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/chatkit/logrus"
 )
 
 // lg package wraps logrus to allow us to use `lg.X` in our app code.
